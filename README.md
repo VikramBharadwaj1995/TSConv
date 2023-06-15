@@ -20,12 +20,14 @@ There are two implementations available:
    ```
 
 ### Working
+* Algorithm
+![Algorithm](./algo.png)
 
 1. U-Net model
-![Alt text](images/image_name.png)
+![UNet](./unet.png)
 
 2. `TSConv` model
-![Alt text](images/image_name.png) 
+![TSConv](tsconv.png) 
 
 
 ## Contributing
