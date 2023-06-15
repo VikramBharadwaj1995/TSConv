@@ -1,0 +1,16 @@
+model:
+  name: UNet
+
+init_params:
+  n_channels: 1
+  first_downsample: 2
+  second_downsample: 4
+  third_downsample: 4
+  fourth_downsample: 8
+  fifth_downsample: 8
+  sixth_downsample: 16
+  first_upsample: 8
+  second_upsample: 8
+  third_upsample: 4
+  fourth_upsample: 4
+  fifth_upsample: 4
